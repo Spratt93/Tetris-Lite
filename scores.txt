@@ -1,0 +1,10 @@
+sop:250
+billy:200
+swaz:150
+game:100
+game:100
+game:100
+game:100
+game:100
+game:100
+game:100
