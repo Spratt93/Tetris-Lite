@@ -6,4 +6,5 @@ place a piece shortens.
 
 *Multiplayer was supported but the server is no longer running...*
 
-Make a jar file and run `java -jar game.jar` 
+`mvn package` creates the uber jar (executable jar file with all the dependencies)
+`java -jar game.jar` runs the project
